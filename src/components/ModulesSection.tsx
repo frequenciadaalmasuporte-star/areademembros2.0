@@ -20,7 +20,7 @@ interface ModulesSectionProps {
     {
       id: 'module0',
       title: 'Módulo 0 - Os 5 Estágios do Coração',
-      image: 'https://lh3.googleusercontent.com/gg-dl/ABS2GSnI1DYNYZziJ7l6e5xsgn7feZ2ZFo2PQvSXzthFRNSWl0fgQE3655xxlJNaARK4GOOsIfQUXsluRymBUZll1qiOU1hxZm0GwIxYBLNQKHrKYit6VEnxlRpUJK8zeJEYTagaeDQDbfLf8mMeJ4j0YoryyyS9mq5oSm9bnerWi87rO6YGTw=s1024-rj',
+      image: 'https://i.ibb.co/yn3PWK6D/modulo2.jpg',
       isLocked: false,
     },
     {
